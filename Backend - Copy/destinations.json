@@ -1,0 +1,1362 @@
+[
+  {
+    "city": "Paris",
+    "country": "France",
+    "clues": [
+      "This city is home to a famous tower that sparkles every night.",
+      "Known as the 'City of Love' and a hub for fashion and art."
+    ],
+    "fun_fact": [
+      "The Eiffel Tower was supposed to be dismantled after 20 years but was saved because it was useful for radio transmissions!",
+      "Paris has only one stop sign in the entire city—most intersections rely on priority-to-the-right rules."
+    ],
+    "trivia": [
+      "This city is famous for its croissants and macarons. Bon appétit!",
+      "Paris was originally a Roman city called Lutetia."
+    ]
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "clues": [
+      "This city has the busiest pedestrian crossing in the world.",
+      "You can visit an entire district dedicated to anime, manga, and gaming."
+    ],
+    "fun_fact": [
+      "Tokyo was originally a small fishing village called Edo before becoming the bustling capital it is today!",
+      "More than 14 million people live in Tokyo, making it one of the most populous cities in the world."
+    ],
+    "trivia": [
+      "The city has over 160,000 restaurants, more than any other city in the world.",
+      "Tokyo’s subway system is so efficient that train delays of just a few minutes come with formal apologies."
+    ]
+  },
+  {
+    "city": "New York",
+    "country": "USA",
+    "clues": [
+      "Home to a green statue gifted by France in the 1800s.",
+      "Nicknamed 'The Big Apple' and known for its Broadway theaters."
+    ],
+    "fun_fact": [
+      "The Statue of Liberty was originally a copper color before oxidizing to its iconic green patina.",
+      "Times Square was once called Longacre Square before being renamed in 1904."
+    ],
+    "trivia": [
+      "New York City has 468 subway stations, making it one of the most complex transit systems in the world.",
+      "The Empire State Building has its own zip code: 10118."
+    ]
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "clues": [
+      "This city is the capital of United Kingdom.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "London has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "London is one of the most visited cities in United Kingdom.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "clues": [
+      "This city is the capital of Germany.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Berlin has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Berlin is one of the most visited cities in Germany.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "clues": [
+      "This city is the capital of Italy.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Rome has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Rome is one of the most visited cities in Italy.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "clues": [
+      "This city is the capital of Spain.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Madrid has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Madrid is one of the most visited cities in Spain.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "clues": [
+      "This city is the capital of China.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Beijing has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Beijing is one of the most visited cities in China.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "clues": [
+      "This city is the capital of Thailand.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Bangkok has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Bangkok is one of the most visited cities in Thailand.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "clues": [
+      "This city is the capital of Russia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Moscow has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Moscow is one of the most visited cities in Russia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "clues": [
+      "This city is the capital of Turkey.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Istanbul has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Istanbul is one of the most visited cities in Turkey.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "clues": [
+      "This city is the capital of Egypt.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Cairo has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Cairo is one of the most visited cities in Egypt.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "This city is the capital of Australia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Sydney has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Sydney is one of the most visited cities in Australia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "clues": [
+      "This city is the capital of Brazil.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Rio de Janeiro has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Rio de Janeiro is one of the most visited cities in Brazil.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "clues": [
+      "This city is the capital of South Africa.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Cape Town has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Cape Town is one of the most visited cities in South Africa.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "clues": [
+      "This city is the capital of Canada.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Toronto has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Toronto is one of the most visited cities in Canada.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Dubai",
+    "country": "UAE",
+    "clues": [
+      "This city is the capital of UAE.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Dubai has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Dubai is one of the most visited cities in UAE.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "clues": [
+      "This city is the capital of Singapore.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Singapore has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Singapore is one of the most visited cities in Singapore.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "This city is the capital of South Korea.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Seoul has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Seoul is one of the most visited cities in South Korea.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "clues": [
+      "This city is the capital of Mexico.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Mexico City has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Mexico City is one of the most visited cities in Mexico.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "clues": [
+      "This city is the capital of Argentina.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Buenos Aires has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Buenos Aires is one of the most visited cities in Argentina.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "clues": [
+      "This city is the capital of India.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Mumbai has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Mumbai is one of the most visited cities in India.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "clues": [
+      "This city is the capital of Greece.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Athens has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Athens is one of the most visited cities in Greece.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "clues": [
+      "This city is the capital of Austria.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Vienna has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Vienna is one of the most visited cities in Austria.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "clues": [
+      "This city is the capital of Czech Republic.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Prague has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Prague is one of the most visited cities in Czech Republic.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "clues": [
+      "This city is the capital of Sweden.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Stockholm has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Stockholm is one of the most visited cities in Sweden.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "clues": [
+      "This city is the capital of Netherlands.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Amsterdam has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Amsterdam is one of the most visited cities in Netherlands.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "clues": [
+      "This city is the capital of Portugal.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Lisbon has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Lisbon is one of the most visited cities in Portugal.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Havana",
+    "country": "Cuba",
+    "clues": [
+      "This city is the capital of Cuba.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Havana has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Havana is one of the most visited cities in Cuba.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "clues": [
+      "This city is the capital of Malaysia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Kuala Lumpur has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Kuala Lumpur is one of the most visited cities in Malaysia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "clues": [
+      "This city is the capital of Peru.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Lima has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Lima is one of the most visited cities in Peru.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "clues": [
+      "This city is the capital of Philippines.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Manila has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Manila is one of the most visited cities in Philippines.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "clues": [
+      "This city is the capital of Poland.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Warsaw has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Warsaw is one of the most visited cities in Poland.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "clues": [
+      "This city is the capital of Indonesia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Jakarta has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Jakarta is one of the most visited cities in Indonesia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "clues": [
+      "This city is the capital of Norway.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Oslo has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Oslo is one of the most visited cities in Norway.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "clues": [
+      "This city is the capital of Ireland.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Dublin has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Dublin is one of the most visited cities in Ireland.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "clues": [
+      "This city is the capital of Denmark.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Copenhagen has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Copenhagen is one of the most visited cities in Denmark.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "clues": [
+      "This city is the capital of Finland.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Helsinki has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Helsinki is one of the most visited cities in Finland.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "clues": [
+      "This city is the capital of Belgium.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Brussels has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Brussels is one of the most visited cities in Belgium.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "clues": [
+      "This city is the capital of Chile.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Santiago has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Santiago is one of the most visited cities in Chile.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Bogotá",
+    "country": "Colombia",
+    "clues": [
+      "This city is the capital of Colombia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Bogotá has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Bogotá is one of the most visited cities in Colombia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Bucharest",
+    "country": "Romania",
+    "clues": [
+      "This city is the capital of Romania.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Bucharest has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Bucharest is one of the most visited cities in Romania.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "clues": [
+      "This city is the capital of Serbia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Belgrade has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Belgrade is one of the most visited cities in Serbia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Doha",
+    "country": "Qatar",
+    "clues": [
+      "This city is the capital of Qatar.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Doha has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Doha is one of the most visited cities in Qatar.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "clues": [
+      "This city is the capital of Iceland.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Reykjavik has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Reykjavik is one of the most visited cities in Iceland.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Tallinn",
+    "country": "Estonia",
+    "clues": [
+      "This city is the capital of Estonia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Tallinn has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Tallinn is one of the most visited cities in Estonia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Riga",
+    "country": "Latvia",
+    "clues": [
+      "This city is the capital of Latvia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Riga has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Riga is one of the most visited cities in Latvia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "clues": [
+      "This city is the capital of Lithuania.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Vilnius has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Vilnius is one of the most visited cities in Lithuania.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "clues": [
+      "This city is the capital of Bosnia and Herzegovina.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Sarajevo has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Sarajevo is one of the most visited cities in Bosnia and Herzegovina.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "clues": [
+      "This city is the capital of Slovenia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Ljubljana has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Ljubljana is one of the most visited cities in Slovenia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "clues": [
+      "This city is the capital of Slovakia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Bratislava has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Bratislava is one of the most visited cities in Slovakia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "clues": [
+      "This city is the capital of Georgia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Tbilisi has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Tbilisi is one of the most visited cities in Georgia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Yerevan",
+    "country": "Armenia",
+    "clues": [
+      "This city is the capital of Armenia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Yerevan has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Yerevan is one of the most visited cities in Armenia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Tehran",
+    "country": "Iran",
+    "clues": [
+      "This city is the capital of Iran.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Tehran has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Tehran is one of the most visited cities in Iran.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Baghdad",
+    "country": "Iraq",
+    "clues": [
+      "This city is the capital of Iraq.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Baghdad has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Baghdad is one of the most visited cities in Iraq.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "clues": [
+      "This city is the capital of Saudi Arabia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Riyadh has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Riyadh is one of the most visited cities in Saudi Arabia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Jerusalem",
+    "country": "Israel",
+    "clues": [
+      "This city is the capital of Israel.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Jerusalem has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Jerusalem is one of the most visited cities in Israel.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "clues": [
+      "This city is the capital of Nepal.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Kathmandu has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Kathmandu is one of the most visited cities in Nepal.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "clues": [
+      "This city is the capital of Vietnam.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Hanoi has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Hanoi is one of the most visited cities in Vietnam.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Casablanca",
+    "country": "Morocco",
+    "clues": [
+      "This city is the capital of Morocco.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Casablanca has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Casablanca is one of the most visited cities in Morocco.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "clues": [
+      "This city is the capital of Kenya.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Nairobi has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Nairobi is one of the most visited cities in Kenya.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "clues": [
+      "This city is the capital of Ghana.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Accra has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Accra is one of the most visited cities in Ghana.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "clues": [
+      "This city is the capital of Nigeria.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Lagos has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Lagos is one of the most visited cities in Nigeria.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Dakar",
+    "country": "Senegal",
+    "clues": [
+      "This city is the capital of Senegal.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Dakar has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Dakar is one of the most visited cities in Senegal.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Caracas",
+    "country": "Venezuela",
+    "clues": [
+      "This city is the capital of Venezuela.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Caracas has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Caracas is one of the most visited cities in Venezuela.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "San José",
+    "country": "Costa Rica",
+    "clues": [
+      "This city is the capital of Costa Rica.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "San José has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "San José is one of the most visited cities in Costa Rica.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "La Paz",
+    "country": "Bolivia",
+    "clues": [
+      "This city is the capital of Bolivia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "La Paz has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "La Paz is one of the most visited cities in Bolivia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Asunción",
+    "country": "Paraguay",
+    "clues": [
+      "This city is the capital of Paraguay.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Asunción has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Asunción is one of the most visited cities in Paraguay.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "clues": [
+      "This city is the capital of Uruguay.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Montevideo has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Montevideo is one of the most visited cities in Uruguay.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Porto",
+    "country": "Portugal",
+    "clues": [
+      "This city is the capital of Portugal.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Porto has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Porto is one of the most visited cities in Portugal.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "San Juan",
+    "country": "Puerto Rico",
+    "clues": [
+      "This city is the capital of Puerto Rico.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "San Juan has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "San Juan is one of the most visited cities in Puerto Rico.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Kingston",
+    "country": "Jamaica",
+    "clues": [
+      "This city is the capital of Jamaica.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Kingston has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Kingston is one of the most visited cities in Jamaica.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "clues": [
+      "This city is the capital of Azerbaijan.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Baku has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Baku is one of the most visited cities in Azerbaijan.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "clues": [
+      "This city is the capital of Uzbekistan.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Tashkent has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Tashkent is one of the most visited cities in Uzbekistan.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "clues": [
+      "This city is the capital of Mongolia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Ulaanbaatar has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Ulaanbaatar is one of the most visited cities in Mongolia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Thimphu",
+    "country": "Bhutan",
+    "clues": [
+      "This city is the capital of Bhutan.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Thimphu has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Thimphu is one of the most visited cities in Bhutan.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Pyongyang",
+    "country": "North Korea",
+    "clues": [
+      "This city is the capital of North Korea.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Pyongyang has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Pyongyang is one of the most visited cities in North Korea.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Suva",
+    "country": "Fiji",
+    "clues": [
+      "This city is the capital of Fiji.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Suva has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Suva is one of the most visited cities in Fiji.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Malé",
+    "country": "Maldives",
+    "clues": [
+      "This city is the capital of Maldives.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Malé has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Malé is one of the most visited cities in Maldives.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Port Moresby",
+    "country": "Papua New Guinea",
+    "clues": [
+      "This city is the capital of Papua New Guinea.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Port Moresby has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Port Moresby is one of the most visited cities in Papua New Guinea.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Nouméa",
+    "country": "New Caledonia",
+    "clues": [
+      "This city is the capital of New Caledonia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Nouméa has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Nouméa is one of the most visited cities in New Caledonia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Hobart",
+    "country": "Australia",
+    "clues": [
+      "This city is the capital of Australia.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Hobart has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Hobart is one of the most visited cities in Australia.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "clues": [
+      "This city is the capital of New Zealand.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Christchurch has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Christchurch is one of the most visited cities in New Zealand.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Anchorage",
+    "country": "USA",
+    "clues": [
+      "This city is the capital of USA.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Anchorage has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Anchorage is one of the most visited cities in USA.",
+      "It has a population of over a million residents."
+    ]
+  },
+  {
+    "city": "Honolulu",
+    "country": "USA",
+    "clues": [
+      "This city is the capital of USA.",
+      "It is known for its unique history and cultural significance."
+    ],
+    "fun_fact": [
+      "Honolulu has a rich heritage and is a major tourist attraction.",
+      "The city is famous for its local cuisine and historical landmarks."
+    ],
+    "trivia": [
+      "Honolulu is one of the most visited cities in USA.",
+      "It has a population of over a million residents."
+    ]
+  }
+]

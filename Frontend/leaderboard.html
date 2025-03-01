@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Leaderboard</h1>
+        <table id="leaderboard-table">
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Player</th>
+                    <th>Score</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <button onclick="window.location.href='index.html'">Back to Home</button>
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            fetch("http://127.0.0.1:8000/leaderboard")
+                .then(response => response.json())
+                .then(data => {
+                    const tableBody = document.querySelector("#leaderboard-table tbody");
+                    data.forEach((entry, index) => {
+                        const row = document.createElement("tr");
+                        row.innerHTML = `<td>${index + 1}</td><td>${entry.username}</td><td>${entry.score}</td>`;
+                        tableBody.appendChild(row);
+                    });
+                });
+        });
+    </script>
+</body>
+</html>

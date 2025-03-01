@@ -28,7 +28,7 @@ https://globetrip.netlify.app/
 ### Clone Repository
 ```sh
  git clone https://github.com/Muzain187/globetrotter.git
- cd city-guessing-game
+ cd globetrotter
 ```
 
 ### Backend Setup (FastAPI)
